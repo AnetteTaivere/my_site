@@ -1,1 +1,1 @@
-Small personal site
+My awesome personal site
