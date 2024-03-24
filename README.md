@@ -1,1 +1,0 @@
-My awesome personal site
