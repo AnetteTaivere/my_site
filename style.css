@@ -103,6 +103,7 @@ nav .navlinks li a{
     justify-content: space-around;
     align-items: center;
     padding-top:4rem;
+    margin-top: 10%;
 }
 .container .pic{
     display: flex;
